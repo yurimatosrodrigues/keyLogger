@@ -1,0 +1,13 @@
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\bin\Debug\netcoreapp3.1\keyLogger.exe
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\bin\Debug\netcoreapp3.1\keyLogger.deps.json
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\bin\Debug\netcoreapp3.1\keyLogger.runtimeconfig.json
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\bin\Debug\netcoreapp3.1\keyLogger.runtimeconfig.dev.json
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\bin\Debug\netcoreapp3.1\keyLogger.dll
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\bin\Debug\netcoreapp3.1\keyLogger.pdb
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\obj\Debug\netcoreapp3.1\keyLogger.csprojAssemblyReference.cache
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\obj\Debug\netcoreapp3.1\keyLogger.csproj.CoreCompileInputs.cache
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\obj\Debug\netcoreapp3.1\keyLogger.AssemblyInfoInputs.cache
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\obj\Debug\netcoreapp3.1\keyLogger.AssemblyInfo.cs
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\obj\Debug\netcoreapp3.1\keyLogger.dll
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\obj\Debug\netcoreapp3.1\keyLogger.pdb
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\keyLogger\obj\Debug\netcoreapp3.1\keyLogger.genruntimeconfig.cache
